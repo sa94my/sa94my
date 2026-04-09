@@ -7,12 +7,14 @@ Here you will find simple Test Automation scripts meant to showcase my skills
 <h3 align="left">Languages :</h3>
 <p align="left"> 
 <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
+ <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://imgs.search.brave.com/A6QArB9yShCBOaIBF49hJx04Iz0zIl5ptSsT4ypq7mM/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNGJiMGQzMzAw/ZjgwOTA1ZTE0Mzdl/OTFkZThjOWVkYzZm/NGY2M2RjODQ0NGU5/N2U2MTU1OTgxMjcx/MmZkM2ExYS93d3cu/dHlwZXNjcmlwdGxh/bmcub3JnLw" alt="TypeScript" width="40" height="40"/> </a> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>  
  <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>  </p>
 <br/>
 <h3 align="left">Tools & Frameworks:</h3>
 <p align="left">
 <a href="https://www.selenium.dev" target="_blank"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a>
+ <a href="https://playwright.dev/" target="_blank"> <img src="https://playwright.dev/img/playwright-logo.svg" alt="Playwright" width="40" height="40"/> </a>
  <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
  <a href="https://appium.io/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/appium.svg" alt="appium" width="40" height="40"/> </a>
  <a href="https://jmeter.apache.org/" target="_blank"> <img src="https://jmeter.apache.org/images/logo.svg" alt="jmeter" width="80" height="40"/> </a>
